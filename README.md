@@ -4,7 +4,7 @@
 To provide a quick starting place for express server applications
 
 ## To Use:
-* Fork, then clone repo
+* Clone repo (optional)
 * Copy files into intended repo folder
 * Run npm i to get dependencies
 * Add .env file including:
